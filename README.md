@@ -36,4 +36,4 @@ Final Lab Exam for Web Development
 - BORROWER
 
 # POSTMAN
-![Alt text](postman.jpg?raw=true "Postman")
+![Alt text](postman.png?raw=true "Postman")
