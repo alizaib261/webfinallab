@@ -1,7 +1,7 @@
 # webfinallab
 Final Lab Exam for Web Development 
 
-# Muhammad Ali Zaib (SP19-BCS0=-028)
+# Muhammad Ali Zaib (SP19-BCS0-028)
 
 # Routes 
 // Author routes
@@ -36,3 +36,4 @@ Final Lab Exam for Web Development
 - BORROWER
 
 # POSTMAN
+![Alt text](postman.jpg?raw=true "Postman")
